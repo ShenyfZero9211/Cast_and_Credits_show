@@ -9,7 +9,7 @@ Don't underestimate it‘s very common visual effects
 ![image](https://i0.hdslb.com/bfs/article/d9f523e79d3e72cfef04bf03f2255b13e1122b5b.jpg@1320w_742h.webp)
 -《终结者1》电影片头截图-  
 
-![image](https://github.com/ShenyfZero9211/Cast_and_Credits_show/blob/master/p5draw.png)
+![image](https://img-blog.csdnimg.cn/20210331210000521.png)
 -processing 绘制效果图-  
 
 ![image](https://i0.hdslb.com/bfs/article/e93e000c2a76171fab29ff825d410953a49cfdbc.png@1320w_746h.webp)
